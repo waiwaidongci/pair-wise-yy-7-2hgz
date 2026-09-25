@@ -8,7 +8,7 @@
       "riggingMaterial": "蜡线",
       "owner": "周宁",
       "dueDate": "2026-06-28",
-      "status": "校准中",
+      "status": "待检查",
       "tasks": [
         {
           "id": "T-1",
@@ -40,6 +40,48 @@
           "at": "2026-06-21T03:50:29.186Z",
           "step": "帆索",
           "note": "后桅升帆索 · 偏紧"
+        }
+      ],
+      "id": "MR-99fvdj",
+      "kitResult": "incomplete",
+      "kitMissingCount": 7,
+      "kitDuplicateCount": 0,
+      "kitStandardVersion": 1,
+      "kitEvaluatedAt": "2026-09-25T03:32:04.808Z"
+    }
+  ],
+  "standards": [
+    {
+      "key": "福船__3",
+      "shipType": "福船",
+      "mastCount": 3,
+      "version": 1,
+      "createdAt": "2026-06-01T00:00:00.000Z",
+      "updatedAt": "2026-06-01T00:00:00.000Z",
+      "positions": [
+        {
+          "name": "前桅侧支索",
+          "required": 2
+        },
+        {
+          "name": "前桅升帆索",
+          "required": 1
+        },
+        {
+          "name": "主桅侧支索",
+          "required": 2
+        },
+        {
+          "name": "主桅升帆索",
+          "required": 1
+        },
+        {
+          "name": "后桅侧支索",
+          "required": 2
+        },
+        {
+          "name": "后桅升帆索",
+          "required": 1
         }
       ]
     }
